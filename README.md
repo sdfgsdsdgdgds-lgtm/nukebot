@@ -1,2 +1,1 @@
-# nukebot
-nuke:(
+# nukebot ONLY USE ON YOUR SERVER DONT USE ON OTHER SERVERS 
